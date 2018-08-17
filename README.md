@@ -1,2 +1,4 @@
-# Initial page
+# function
+
+我的函数式编程成长手册 \(自阅\)
 
