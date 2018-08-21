@@ -120,3 +120,32 @@ _(persons).map(getCountry).reduce(gatherStats, {});
 //之后，再使用 reduce 来收集最终的结果。
 ```
 
+### 用\_.filter 删除不需要的元素
+
+> 在处理较大的数据集合时，往往需要删除部分不能参与计算的元素。例如，需要计算只生活在欧洲国家的人或是出生在某一年的人。与其在代码中到处用 `if-else` 语句，不如用 `_.filter` 来实现。
+
+![filter &#x64CD;&#x4F5C;&#x4EE5;&#x4E00;&#x4E2A;&#x6570;&#x7EC4;&#x4E3A;&#x8F93;&#x5165;&#xFF0C;&#x5E76;&#x65BD;&#x52A0;&#x4E00;&#x4E2A;&#x9009;&#x62E9;&#x6761;&#x4EF6; p&#xFF0C;&#x4ECE;&#x800C;&#x4EA7;&#x751F;&#x4E00;&#x4E2A;&#x53EF;&#x80FD;&#x8F83; &#x539F;&#x6570;&#x7EC4;&#x66F4;&#x5C0F;&#x7684;&#x5B50;&#x96C6;&#x3002;&#x6761;&#x4EF6;p&#x4E5F;&#x79F0;&#x4E3A;&#x51FD;&#x6570;&#x8C13;&#x8BCD;](../.gitbook/assets/1805745860b97d57f357-original-image8.png)
+
+```text
+//filter的实现
+function filter(arr, predicate) {
+   let idx = -1,
+       len = arr.length,
+       result = []; ⇽--- 结果数组为原数组的子集
+   while (++idx < len) {
+     let value = arr[idx];
+    if (predicate(value, idx, this)) { ⇽--- 调用谓词函数，如果结果为真，则保留，否则略过
+       result.push(value);
+     }
+   }
+   return result;
+}
+```
+
+扩展一下数组扩展式
+
+```text
+[for (p of people) if (p.birthYear ===  1903) p.fullname].join(' and ');
+现在好像是废除了
+```
+

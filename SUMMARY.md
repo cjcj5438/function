@@ -9,4 +9,6 @@
   * [闭包和作用域](han-shu-shi-bian-cheng-si-xiang/bi-bao-he-zuo-yong-yu.md)
 * [轻数据,重操作](qing-shu-ju-zhong-cao-zuo/README.md)
   * [理解程序的控制流](qing-shu-ju-zhong-cao-zuo/li-jie-cheng-xu-de-kong-zhi-liu.md)
+  * [代码推理](qing-shu-ju-zhong-cao-zuo/dai-ma-tui-li.md)
+  * [递归地思考](qing-shu-ju-zhong-cao-zuo/di-gui-di-si-kao.md)
 
