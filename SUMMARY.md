@@ -11,4 +11,8 @@
   * [理解程序的控制流](qing-shu-ju-zhong-cao-zuo/li-jie-cheng-xu-de-kong-zhi-liu.md)
   * [代码推理](qing-shu-ju-zhong-cao-zuo/dai-ma-tui-li.md)
   * [递归地思考](qing-shu-ju-zhong-cao-zuo/di-gui-di-si-kao.md)
+* [模块化且可以重用的代码](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/README.md)
+  * [方法链与函数管道的比较](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/fang-fa-lian-yu-han-shu-guan-dao-de-bi-jiao.md)
+  * [管道函数的兼容条件](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/guan-dao-han-shu-de-jian-rong-tiao-jian.md)
+  * [柯里化的函数求值](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/li-hua-de-han-shu-qiu-zhi.md)
 
