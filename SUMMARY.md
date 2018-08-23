@@ -15,4 +15,7 @@
   * [方法链与函数管道的比较](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/fang-fa-lian-yu-han-shu-guan-dao-de-bi-jiao.md)
   * [管道函数的兼容条件](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/guan-dao-han-shu-de-jian-rong-tiao-jian.md)
   * [柯里化的函数求值](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/li-hua-de-han-shu-qiu-zhi.md)
+  * [部分应用和函数绑定](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/bu-fen-ying-yong-he-han-shu-bang-ding.md)
+  * [组合函数](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/zu-he-han-shu.md)
+  * [使用函数组合子来管理程序的控制流](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/shi-yong-han-shu-zu-he-zi-lai-guan-li-cheng-xu-de-kong-zhi-liu.md)
 
