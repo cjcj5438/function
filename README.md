@@ -1,6 +1,6 @@
 # function
 
-函数式编程成长手册 \(自阅\)
+函数式编程成长手册 \(自阅-代码量大于文字说明\)
 
 [快速阅读:](https://github.com/cjcj5438/function/blob/master/SUMMARY.md) 喜欢请 start √ 核心代码块分享
 
@@ -11,4 +11,10 @@
 ramda.js : [http://www.ruanyifeng.com/blog/2017/03/ramda.html](http://www.ruanyifeng.com/blog/2017/03/ramda.html) 阮一峰
 
 lodash : [http://www.css88.com/doc/lodash/](http://www.css88.com/doc/lodash/) \(中文\)
+
+### use:
+
+* git clone [https://github.com/cjcj5438/function.git](https://github.com/cjcj5438/function.git)
+* npm i
+* gitbook serve
 
