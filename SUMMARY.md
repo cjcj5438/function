@@ -18,4 +18,8 @@
   * [部分应用和函数绑定](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/bu-fen-ying-yong-he-han-shu-bang-ding.md)
   * [组合函数](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/zu-he-han-shu.md)
   * [使用函数组合子来管理程序的控制流](mo-kuai-hua-qie-ke-yi-zhong-yong-de-dai-ma/shi-yong-han-shu-zu-he-zi-lai-guan-li-cheng-xu-de-kong-zhi-liu.md)
+* [针对复杂应用的设计模式](zhen-dui-fu-za-ying-yong-de-she-ji-mo-shi/README.md)
+  * [命令式错误处理的不足](zhen-dui-fu-za-ying-yong-de-she-ji-mo-shi/ming-ling-shi-cuo-wu-chu-li-de-bu-zu.md)
+  * [更好的解决方案Functor](zhen-dui-fu-za-ying-yong-de-she-ji-mo-shi/yi-zhong-geng-hao-de-jie-jue-fang-an-functor.md)
+  * [Monad函数式地处理错误](zhen-dui-fu-za-ying-yong-de-she-ji-mo-shi/monad-han-shu-shi-di-chu-li-cuo-wu.md)
 
