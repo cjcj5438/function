@@ -1,6 +1,6 @@
 {
-    "title": "webpack 使用教程",
-    "description": "记录 webpack 的配置和一些插件的使用",
+    "title": "function 使用教程",
+    "description": "记录 function 的配置和一些插件的使用",
     "author": "chenjing",
     "output.name": "site",
     "language": "zh-hans",
@@ -11,7 +11,7 @@
     },
     "links": {
         "sidebar": {
-            "Home": "http://www.zhangjikai.com"
+            "Home": "http://www.baidu.com"
         }
     },
     "plugins": [
@@ -71,10 +71,10 @@
             "shortName": "gitbookuse"
         },
         "github": {
-            "url": "https://github.com/zhangjikai/gitbook-use"
+            "url": "https://github.com/cjcj5438/function"
         },
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "cjcj5438/function",
             "types": [
                 "star"
             ],
@@ -110,7 +110,7 @@
             ]
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright © zhangjikai.com 2017",
+            "copyright": "Copyright © google.com 2017",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -118,8 +118,8 @@
             "token": "ff100361cdce95dd4c8fb96b4009f7bc"
         },
         "donate": {
-            "wechat": "https://zhangjikai.com/resource/weixin.png",
-            "alipay": "https://zhangjikai.com/resource/alipay.png",
+            "wechat": "",
+            "alipay": "",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
@@ -130,11 +130,11 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/zhangjikai/gitbook-use/edit/master",
+            "base": "https://github.com/cjcj5438/function",
             "label": "Edit This Page"
         },
         "sitemap-general": {
-            "prefix": "http://gitbook.zhangjikai.com"
+            "prefix": "www.baidu.com"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
@@ -153,19 +153,6 @@
             "copyButtons": true,
             "fade": false,
             "style": "flat"
-        },
-
-        "versions": {
-            "options": [
-                {
-                    "value": "http://gitbook.zhangjikai.com",
-                    "text": "v3.2.3"
-                },
-                {
-                    "value": "http://gitbook.zhangjikai.com/v2/",
-                    "text": "v2.6.4"
-                }
-            ]
         }
     }
 }
