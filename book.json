@@ -4,19 +4,34 @@
     "author": "chenjing",
     "output.name": "site",
     "language": "zh-hans",
-    "gitbook": "1.0.0",
     "root": ".",
     "structure": {
         "readme": "introduction.md"
     },
-    "plugins": ["edit-link", "prism", "-highlight", "github", "anker-enable"],
+    "plugins": [
+        "edit-link",
+        "-highlight", "prism-ext",
+        "github",
+        "anker-enable",
+        "hints-istex"
+    ],
     "pluginsConfig": {
+        "hints": {
+            "info": "fa fa-info-circle",
+            "success": "fa fa-check-circle",
+            "danger": "fa fa-exclamation-triangle",
+            "warning": "fa fa-exclamation-circle"
+        },
         "edit-link": {
-            "base": "https://github.com/omnidan/redux-undo/tree/master",
+            "base": "https://github.com/cjcj5438/function/master",
             "label": "Edit This Page"
         },
         "github": {
-            "url": "https://github.com/omnidan/redux-undo/"
+            "url": "https://github.com/cjcj5438/function/"
+        },
+        "prism": {
+            "plugins": ["line-numbers"],
+            "cssClasses": "line-numbers"
         }
     }
 }
