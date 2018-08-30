@@ -15,6 +15,6 @@ lodash : [http://www.css88.com/doc/lodash/](http://www.css88.com/doc/lodash/) \(
 ### use:
 
 * git clone [https://github.com/cjcj5438/function.git](https://github.com/cjcj5438/function.git)
-* npm i
-* gitbook serve
+* gitbook install
+* gitbook serve or gitbook build
 
