@@ -9,6 +9,7 @@
 阅读书籍  :  [https://www.manning.com/books/functional-programmi](https://www.manning.com/books/functional-programmi)
 
 ramda.js : [http://www.ruanyifeng.com/blog/2017/03/ramda.html](http://www.ruanyifeng.com/blog/2017/03/ramda.html) 阮一峰
+ramda.js : [http://ramda.cn/docs/](http://ramda.cn/docs/) 中文
 
 lodash : [http://www.css88.com/doc/lodash/](http://www.css88.com/doc/lodash/) \(中文\)
 
